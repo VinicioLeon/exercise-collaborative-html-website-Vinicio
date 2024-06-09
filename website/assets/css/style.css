@@ -34,4 +34,10 @@ body{
 
 /* css first_heading and services end */
 
+.card, .portfolio   {
+    text-align: justify;
+}
 
+.contact {
+    text-align:justify;
+}
